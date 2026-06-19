@@ -47,7 +47,7 @@ Daily-readings-app/
 ## ⚙️ Installation & Setup
 1. Fork & Clone the Repository
 ```bash
-git clone https://github.com/yourusername/DailyReadings.git
+git clone https://github.com/mosweta-school/daily_readings.git
 ```
 2. Setup Backend
 ```bash
@@ -55,7 +55,7 @@ cd Backend
 npm install
 node server.js
 ```
-### Backend runs on: http://localhost:5000
+### Backend runs on render
 3. Setup Frontend
 ```bash
 # Open a new terminal
@@ -63,12 +63,13 @@ cd Frontend
 npm install
 npm run dev
 ```
-### Frontend runs on: http://localhost:5173
+### Frontend runs on: https://daily-readings-gamma.vercel.app/
 ## 🎯 How to Use the App
 - Daily Reflections: Open the app to immediately see the liturgical title and scripture for the day.
 - Meet the Saints: View the portrait of today's celebrated figure and read their historical summary.
 - Deep Dive: Click the "Learn More on Catholic Online" link to read full hagiographies and theological reflections.
 - Readings: Scroll through the First Reading, Psalm, and Gospel in a clean, distraction-free environment.
+
   
 ## 🔮 Future Improvements
 - 🎙️ Audio Integration: Built-in Text-to-Speech to listen to the daily readings.
